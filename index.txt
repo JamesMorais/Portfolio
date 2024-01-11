@@ -32,9 +32,19 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Analista de QA em formação
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Determinado e com vontade de aprender, busco sempre me aperfeiçoar e adquirir novos conhecimentos.
+
+Comecei minha carreira na área de tecnologia como desenvolvedor, mas ao longo do curso de Análise e Desenvolvimento de Sistemas, me apaixonei pela área de Qualidade de Software.
+
+Possuo conhecimentos em desenvolvimento web com HTML, CSS, JavaScript e Java com Spring Boot, além de conhecimento em banco de dados com MySQL e PostgreSQL.
+
+Estou aprimorando meus conhecimentos em Selenium WebDriver+Java, uma ferramenta essencial para automação de testes.
+
+Acredito que meu conhecimento em desenvolvimento web é um diferencial para um QA, pois me permite entender melhor o funcionamento dos sistemas e identificar possíveis falhas.
+
+Estou sempre em busca de novas oportunidades para desenvolver minhas habilidades e contribuir para a qualidade de software.
 
 
 ## service
